@@ -1,0 +1,19 @@
+.mainText {
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+.mainDiv {
+	border: dotted 1px #CCCCCC; 
+	width: 600px;
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+.topRow {
+	background-color: #CCCCCC; 
+	font-weight: bold;
+}
+.mainFieldSet { 
+border: 2px #003A84 solid;
+}
